@@ -1,4 +1,4 @@
-<h1>Repositorio do João</h1>
+<h1>Repositório do João</h1>
 
 <h3>Linguagens de Programação</h3>
 <h4>
